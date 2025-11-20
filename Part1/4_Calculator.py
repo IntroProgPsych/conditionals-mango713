@@ -30,3 +30,12 @@
 
 # Write your code here:
 
+#number1=20
+#number2=15
+#operation=input("Enter operation(add,multiply,subtract):")
+#if operation == "add":
+    print(number1+number2)
+#elif operation =="subtract":
+    print(number1-number2)
+#elif operation =="multiply":
+    print(number1*number2)

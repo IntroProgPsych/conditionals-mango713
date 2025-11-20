@@ -17,3 +17,9 @@
 
 # Write your code here:
 
+#number=int(input("Type number"))
+#if number <0:
+    print(number*-1)
+#else:
+    print(number)
+

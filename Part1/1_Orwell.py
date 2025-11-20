@@ -9,3 +9,7 @@
 # Orwell
 
 # Write your code here:
+
+#number=int(input("Type integer number"))
+#if number == 1984:
+    print("Orwell")

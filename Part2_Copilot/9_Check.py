@@ -18,3 +18,11 @@
 
 # Write your code here:
 
+#age = int(input("What is your age? "))
+
+#if age < 5:
+    print("I suspect you can't write quite yet...")
+#elif age > 120:
+    print("I'm not sure I believe you...")
+#else:
+    print(f"Ok, you're {age} years old")

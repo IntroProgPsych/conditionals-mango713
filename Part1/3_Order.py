@@ -26,3 +26,9 @@
 
 # Write your code here:
 
+#number=int(input("Type number"))
+#if number<1000:
+    print("Thank you")
+#elif number>1000:
+    print("Go home loser")    
+
